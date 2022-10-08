@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SteveBloX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=75f520&icon_color=1124BB&text_color=ff0000&bg_color=42ff7e,42f6ff,#388bff" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SteveBloX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=1124BB&text_color=000000&bg_color=0,45ff64,47b9ff" alt="my Github Stats"/>
