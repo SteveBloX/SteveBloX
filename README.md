@@ -5,5 +5,3 @@
 <img src="https://streak-stats.demolab.com?user=SteveBloX&theme=dark"/>
 
 <img src="https://dcbadge.vercel.app/api/shield/728694205718855832" />
-
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SteveBloX&repo=madushadhanushka&countColorcountColor&countColor=03fcc6"/>
